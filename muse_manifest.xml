@@ -1,0 +1,64 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jkiversion2.co.uk" resolutions="1x" timestamp="1557865736488">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4133778564" ref="index"/>
+    <file name="nomq_index.css" crc="4151956330" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hd queensway-14-edit.jpg" crc="248418981" ref="index"/>
+    <file name="hd queensway-17-crop-u1334.jpg" crc="211836435" ref="index"/>
+    <file name="hd queensway-41-crop-u1366.jpg" crc="4044664138" ref="index"/>
+    <file name="hd queensway-38-edit-crop-u893.jpg" crc="246468471" ref="index"/>
+    <file name="hd queensway-17-crop-u589.jpg" crc="211836435" ref="index"/>
+    <file name="hd queensway-41-crop-u716.jpg" crc="4044664138" ref="index"/>
+    <file name="hd queensway-5-edit-crop-u1095.jpg" crc="4091713148" ref="index"/>
+    <file name="hd queensway-14-edit-u554-fr.jpg" crc="225352916" ref="index"/>
+    <file name="hd queensway-41-crop-u7162.jpg" crc="4226586293" ref="index"/>
+    <file name="hd queensway-41-crop-u13662.jpg" crc="4226586293" ref="index"/>
+    <file name="hd queensway-38-edit568x379.jpg" crc="141349458" seo="true" ref="index"/>
+    <file name="hd queensway-5-edit560x374.jpg" crc="167895906" seo="true" ref="index"/>
+    <file name="hd queensway-17-crop-u5892.jpg" crc="105597429" ref="index"/>
+    <file name="hd queensway-17-crop-u13342.jpg" crc="105597429" ref="index"/>
+    <file name="hd queensway-14-edit-u554-fr2.jpg" crc="382493380" ref="index"/>
+    <file name="hd queensway-41-crop-u7163.jpg" crc="12250972" ref="index"/>
+    <file name="hd queensway-41-crop-u13663.jpg" crc="12250972" ref="index"/>
+    <file name="hd queensway-38-edit455x303.jpg" crc="3930484106" seo="true" ref="index"/>
+    <file name="hd queensway-5-edit448x299.jpg" crc="4254591202" seo="true" ref="index"/>
+    <file name="hd queensway-17-crop-u5893.jpg" crc="3867582851" ref="index"/>
+    <file name="hd queensway-17-crop-u13343.jpg" crc="3867582851" ref="index"/>
+    <file name="hd queensway-14-edit-u554-fr3.jpg" crc="59846683" ref="index"/>
+    <file name="hd queensway-41-crop-u7164.jpg" crc="303691624" ref="index"/>
+    <file name="hd queensway-41-crop-u13664.jpg" crc="303691624" ref="index"/>
+    <file name="hd queensway-38-edit341x228.jpg" crc="178129362" seo="true" ref="index"/>
+    <file name="hd queensway-5-edit336x224.jpg" crc="4255730359" seo="true" ref="index"/>
+    <file name="hd queensway-17-crop-u5894.jpg" crc="4277308715" ref="index"/>
+    <file name="hd queensway-17-crop-u13344.jpg" crc="4277308715" ref="index"/>
+    <file name="hd queensway-14-edit-u554-fr4.jpg" crc="389618742" ref="index"/>
+    <file name="hd queensway-41-crop-u7165.jpg" crc="5552038" ref="index"/>
+    <file name="hd queensway-41-crop-u13665.jpg" crc="5552038" ref="index"/>
+    <file name="hd queensway-38-edit182x122.jpg" crc="491175078" seo="true" ref="index"/>
+    <file name="hd queensway-5-edit180x120.jpg" crc="285685715" seo="true" ref="index"/>
+    <file name="hd queensway-17-crop-u5895.jpg" crc="155760492" ref="index"/>
+    <file name="hd queensway-17-crop-u13345.jpg" crc="155760492" ref="index"/>
+    <file name="hd queensway-14-edit-u554-fr5.jpg" crc="3889665020" ref="index"/>
+    <file name="hd queensway-41-crop-u7166.jpg" crc="5552038" ref="index"/>
+    <file name="hd queensway-41-crop-u13666.jpg" crc="5552038" ref="index"/>
+    <file name="hd queensway-38-edit-crop-u8932.jpg" crc="532938097" ref="index"/>
+    <file name="hd queensway-5-edit-crop-u10952.jpg" crc="3887195930" ref="index"/>
+    <file name="hd queensway-17-crop-u5896.jpg" crc="155760492" ref="index"/>
+    <file name="hd queensway-17-crop-u13346.jpg" crc="155760492" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="500756896" seo="true" mt="1557865727501" redirect="true"/>
+</manifest>
