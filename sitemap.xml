@@ -1,57 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jkiversion2.co.uk/index.html</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/index.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-5-edit560x374.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/the-master-plan-apt-1.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-38-edit455x303.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/the-apartments.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-5-edit448x299.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/the-penthouse.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-7th.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-8th.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-38-edit568x379.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/location.html</loc>
+    <lastmod>2019-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/ahtopol.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-5-edit336x224.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/the-development.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-first.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-38-edit182x122.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/the-gallery.html</loc>
+    <lastmod>2019-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159783417.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-5-edit180x120.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/about-us.html</loc>
+    <lastmod>2019-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties5th.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://jkiversion2.co.uk/images/hd%20queensway-38-edit341x228.jpg</loc>
-    <lastmod>2019-05-14</lastmod>
+    <loc>http://bigonideas.co.uk/extra-work-page.html</loc>
+    <lastmod>2019-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/extra-work-lighbox.html</loc>
+    <lastmod>2019-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/arrow-pointing-to-down.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/scrolling-test.html</loc>
+    <lastmod>2019-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/frame12.png</image:loc>
+    </image:image>
   </url>
 </urlset>
